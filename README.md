@@ -1,4 +1,4 @@
-# page1
+# page2
 
 ## Project setup
 ```
